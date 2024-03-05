@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manojbamniya
 - 👀 I’m interested in Web Development and Data analysis
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and DSA
 - 📫 How to reach me you can mail me manojbjkb2002@gmail.com
 
 <!---
